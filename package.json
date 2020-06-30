@@ -1,8 +1,7 @@
 {
-  "name": "biscuet-sendgrid-serverless",
-  "description": "BiscuetでSendGridのEvent Webhookを受け取る上で必要なAWS上の各種コードを管理するリポジトリです。",
+  "name": "node-script-boilerplate",
+  "description": "this repository is boilerplate for simply node scripts. it contains TypeScript, Prettier, ESLint, and Jest.",
   "version": "1.0.0",
-  "main": "index.js",
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "^3.4.0",
     "@typescript-eslint/parser": "^3.4.0",
@@ -22,14 +21,6 @@
     "watch": "tsc --watch",
     "build": "tsc --build tsconfig.json"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/smartcamp/biscuet-sendgrid-serverless.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/smartcamp/biscuet-sendgrid-serverless/issues"
-  },
-  "homepage": "https://github.com/smartcamp/biscuet-sendgrid-serverless#readme"
+  "author": "Nakagawa Makoto",
+  "license": "ISC"
 }
