@@ -17,4 +17,5 @@ Just execute below command.
 
 no need other process.  
 You can start development!  
-also there is some commands in `package.json`, `test`, `watch`, `build`...
+also there is some commands in `package.json`.  
+including `test`, `watch`, `build` etc...
